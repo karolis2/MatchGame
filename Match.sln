@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Match", "Match\Match.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardDealingService", "CardDealingService\CardDealingService.csproj", "{13E8250E-2294-4608-9A40-6E1DEA926A36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardDealingServiceTests", "CardDealingServiceTests\CardDealingServiceTests.csproj", "{E802AF99-0D34-4FE1-AE20-FB21A73145D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{13E8250E-2294-4608-9A40-6E1DEA926A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13E8250E-2294-4608-9A40-6E1DEA926A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13E8250E-2294-4608-9A40-6E1DEA926A36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E802AF99-0D34-4FE1-AE20-FB21A73145D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E802AF99-0D34-4FE1-AE20-FB21A73145D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E802AF99-0D34-4FE1-AE20-FB21A73145D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E802AF99-0D34-4FE1-AE20-FB21A73145D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
